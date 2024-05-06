@@ -2,5 +2,6 @@
   "mappings": [
     "/content/aem-edge-test-poc/:/",
     "/content/aem-edge-test-poc/configuration:/.helix/config.json"
+    
   ]
 }

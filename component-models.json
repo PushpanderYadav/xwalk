@@ -10,6 +10,13 @@
         "label": "Text"
       },
       {
+        "component": "reference",
+        "valueType": "string",
+        "name": "fileReference",
+        "label": "Image",
+        "multi": false
+      },
+      {
         "component": "select",
         "name": "type",
         "value": "h1",

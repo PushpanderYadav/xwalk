@@ -219,7 +219,7 @@
       },
       {
         "component": "reference",
-        "valueType": "link",
+        "valueType": "string",
         "name": "fragmentPath",
         "label": "path",
         "multi": false

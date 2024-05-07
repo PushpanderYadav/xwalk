@@ -218,11 +218,11 @@
         "valueType": "string"
       },
       {
-        "component": "reference",
+        "component": "text",
         "valueType": "string",
-        "name": "fragmentPath",
-        "label": "path",
-        "multi": false
+        "name": "href",
+        "value": "",
+        "label": "Link"
       }
 
     ]

@@ -216,6 +216,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "fragmentPath",
+        "label": "path",
+        "multi": true
       }
     ]
   }
